@@ -2,122 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hi~
 
-[Link to another page](./another-page.html).
+你好呀，我是成成！  
+这里是我的个人主页，用于记录一些杂七杂八的东西和我近期的状态。
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 关于旧网站下线的说明
 
-# Header 1
+因为一些原因我决定暂时使用此页面替代旧的个人主页（我会在接下来详细说明），这个页面应该只是暂时的，我在必要时也会在这里更新一些信息。
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+其实我从去年开始就在考虑自己制作一个专用的个人网站系统了，因为之前的 [ACG-Home](https://github.com/ChengCheng0v0/ACG-Home) 是个纯静态项目，我觉得已经不太能符合我的需求了（即使是在进行了一些大更新后。。。）  
+在这种情况下开一个新坑应该并不是必须的，但我确实是没有找到什么合适的选择。我觉得比较满意的动态博客系统是 WordPress，但有一点真的很让人头大：**它是 PHP 写的**！我很难去维护一个这么古老的东西。  
+所以我还是决定自己制作一个完全属于我自己的博客系统（暂命名为 **Awoo**），对于这个新的项目我选择的技术栈是 **Rust (Axum)** 后端 + **TS (Vue)** 前端，这也带来了一个新的问题 —— Rust 是门慢工出细活的语言，我很难快速过渡到新网站中。
 
-## Header 2
+现在我每天的大部分空闲时间都在为这个新项目工作，如果你好奇我近期的活动情况，可以看看我 [GitHub 主页](https://github.com/ChengCheng0v0) 上的瓷砖墙。  
+在理想情况下新的网站应该会在今年八月份左右上线，我最近还有一些别的事情要做（有一些我也没法确定），这个时间规划如果会推迟的话恐怕得到明年年初了。最近真的好累，我可能时不时会休息个一两天 ( ;´ - `;)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+我很少有时间去更新我在互联网上的各种社交媒体了，维护一个完整的网站更是困难（如果我不去维护的话，信息就滞后了 qwq），所以我找了个简单的静态项目来替代之前的网站：[Minimal](https://github.com/pages-themes/minimal)。
 
-### Header 3
+但是我一直都活着的！如果你想和我联系的话可以给我发邮件：<chengcheng@miao.ms>。如果想在新网站上线时收到通知的话也可以给我发邮件订阅，总之事情就是这样，我要继续忙活去了，最后还是祝你天天开心吖~
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+| ⚲ 成成0v0 | ✎ 2025/04/20 | ✂ ---------- |
