@@ -9,6 +9,13 @@ layout: default
 
 ---
 
+## 悲报
+
+孩子们，刚嘚瑟没几天然后发现一个重大问题，CSR 几乎没法做 SEO 优化。。。  
+我打算改用 Nuxt.js 重构前端部分了，难受啊 TAT
+
+| ⚲ 成成0v0 | ✎ 2025/08/3 | ✂ ---------- |
+
 ## 最近正在做帖子功能的前端了
 
 [Screenshot](/assets/img/Screenshot_2025-07-31_at_19-33-55_Awoo.png)
